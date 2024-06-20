@@ -1,8 +1,8 @@
 ---
 #-------------------------------
 # General Site Settings
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/parsa" # The subpath of your site, e.g. /blog
+url: "https://saikothasan.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 title: Parsa | Portfolio Jekyll Template
 logo: /assets/images/logo.png # You can add own logo
